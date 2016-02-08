@@ -5,7 +5,8 @@ The Simple SQL Injection Vulnerability Scanner helps
     to find SQL injection vulnerabilities within a website. It is basic and intended for educational use
 ## Usage example:
 sqli_scanner.py -u \"http://site.com/test.php?id=x\"
-Options:
+
+##Options:
   * -u <URL>              (starts the scanner)
   * --help                (displays this text)
   * --about                (displays this text)
